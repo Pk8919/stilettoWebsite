@@ -1,0 +1,507 @@
+<root>
+  <System>
+    <IsAdminSite>False</IsAdminSite>
+    <IsAdminSiteInt>0</IsAdminSiteInt>
+    <CustomerID>58643</CustomerID>
+    <DefaultVATSetting>1</DefaultVATSetting>
+    <CustomerVATSetting>1</CustomerVATSetting>
+    <UseVATSetting>1</UseVATSetting>
+    <CustomerLevelID>0</CustomerLevelID>
+    <CustomerLevelName>
+    </CustomerLevelName>
+    <CustomerFirstName>
+    </CustomerFirstName>
+    <CustomerLastName>
+    </CustomerLastName>
+    <CustomerFullName>
+    </CustomerFullName>
+    <SubscriptionExpiresOn>
+    </SubscriptionExpiresOn>
+    <CustomerRoles>NoSubscription,NotRegistered</CustomerRoles>
+    <IsAdminUser>False</IsAdminUser>
+    <IsSuperUser>False</IsSuperUser>
+    <VAT.Enabled>false</VAT.Enabled>
+    <VAT.AllowCustomerToChooseSetting>true</VAT.AllowCustomerToChooseSetting>
+    <LocaleSetting>en-US</LocaleSetting>
+    <CurrencySetting>USD</CurrencySetting>
+    <CurrencyDisplayLocaleFormat>
+    </CurrencyDisplayLocaleFormat>
+    <WebConfigLocaleSetting>en-US</WebConfigLocaleSetting>
+    <SqlServerLocaleSetting>en-US</SqlServerLocaleSetting>
+    <PrimaryCurrency>USD</PrimaryCurrency>
+    <PrimaryCurrencyDisplayLocaleFormat>
+    </PrimaryCurrencyDisplayLocaleFormat>
+    <Date>7/21/2010</Date>
+    <Time>10:10 AM</Time>
+    <SkinID>1</SkinID>
+    <AffiliateID>0</AffiliateID>
+    <IPAddress>75.145.182.73</IPAddress>
+    <QueryStringRAW>
+    </QueryStringRAW>
+    <UseStaticLinks>
+    </UseStaticLinks>
+    <PageName>default.aspx</PageName>
+    <FullPageName>/default.aspx</FullPageName>
+    <XmlPackageName>topmenu.xml.config</XmlPackageName>
+    <StoreUrl>http://66.9.38.76/</StoreUrl>
+    <CurrentDateTime>Wed, 21 Jul 2010 15:10:36 GMT</CurrentDateTime>
+    <CustomerIsRegistered>false</CustomerIsRegistered>
+    <StoreID>1</StoreID>
+    <FilterProduct>False</FilterProduct>
+    <FilterEntity>False</FilterEntity>
+    <FilterTopic>False</FilterTopic>
+    <FilterNews>False</FilterNews>
+    <RequestedPage>default.aspx</RequestedPage>
+    <RequestedQuerystring>
+    </RequestedQuerystring>
+  </System>
+  <QueryString />
+  <Form />
+  <Session />
+  <Cookies>
+    <Referrer>http://66.9.38.76/InvalidRequest.aspx</Referrer>
+    <ASPDNSFGUID>52B7A637F126720CA0CC0AFD4A35B6E1D8AF119A7CB19A5C1EA95D1AF366C32B7EA2B1CD197693E524D6DF54278EBF4F0177097D3AE3889C78796435DF4F366F0227D26B6369FC59DCD6CF7A2E217F8BEFF7D97177BCF3C8C35C213FF0BC13BD20A559154B624339079EF907744B56AF4C916E9C9C52E44C77EE5CC43A534AEB</ASPDNSFGUID>
+  </Cookies>
+  <ServerVariables>
+    <HTTP_HOST>66.9.38.76</HTTP_HOST>
+    <HTTP_USER_AGENT>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 ( .NET CLR 3.5.30729)</HTTP_USER_AGENT>
+    <AUTH_TYPE>Forms</AUTH_TYPE>
+    <AUTH_USER>c896baad-9fa7-4341-9588-b61f5c666101</AUTH_USER>
+    <AUTH_PASSWORD>
+    </AUTH_PASSWORD>
+    <HTTPS>off</HTTPS>
+    <LOCAL_ADDR>10.10.10.76</LOCAL_ADDR>
+    <PATH_INFO>/default.aspx</PATH_INFO>
+    <PATH_TRANSLATED>C:\inetpub\wwwroot\default.aspx</PATH_TRANSLATED>
+    <SCRIPT_NAME>/default.aspx</SCRIPT_NAME>
+    <SERVER_NAME>66.9.38.76</SERVER_NAME>
+    <SERVER_PORT_SECURE>0</SERVER_PORT_SECURE>
+    <HTTP_CLUSTER_HTTPS>
+    </HTTP_CLUSTER_HTTPS>
+  </ServerVariables>
+  <Runtime>
+    <SqlServerLocaleSetting>en-US</SqlServerLocaleSetting>
+    <CustomerLevelName>
+    </CustomerLevelName>
+    <CustomerFullName>
+    </CustomerFullName>
+    <IsAdminUser>False</IsAdminUser>
+    <IsAdminSiteInt>0</IsAdminSiteInt>
+    <LocaleSetting>en-US</LocaleSetting>
+    <FilterEntity>False</FilterEntity>
+    <PrimaryCurrency>USD</PrimaryCurrency>
+    <CustomerVATSetting>1</CustomerVATSetting>
+    <CustomerRoles>NoSubscription,NotRegistered</CustomerRoles>
+    <CurrencyDisplayLocaleFormat>
+    </CurrencyDisplayLocaleFormat>
+    <XmlPackageName>topmenu.xml.config</XmlPackageName>
+    <IsAdminSite>False</IsAdminSite>
+    <FilterTopic>False</FilterTopic>
+    <VAT.AllowCustomerToChooseSetting>True</VAT.AllowCustomerToChooseSetting>
+    <StoreUrl>http://66.9.38.76/</StoreUrl>
+    <SubscriptionExpiresOn>
+    </SubscriptionExpiresOn>
+    <Date>7/21/2010</Date>
+    <StoreID>1</StoreID>
+    <FullPageName>/default.aspx</FullPageName>
+    <CustomerIsRegistered>false</CustomerIsRegistered>
+    <VAT.Enabled>False</VAT.Enabled>
+    <QueryStringRAW>
+    </QueryStringRAW>
+    <PrimaryCurrencyDisplayLocaleFormat>
+    </PrimaryCurrencyDisplayLocaleFormat>
+    <UseStaticLinks>False</UseStaticLinks>
+    <CustomerLastName>
+    </CustomerLastName>
+    <IPAddress>75.145.182.73</IPAddress>
+    <DefaultVATSetting>1</DefaultVATSetting>
+    <CustomerFirstName>
+    </CustomerFirstName>
+    <SkinID>1</SkinID>
+    <IsSuperUser>False</IsSuperUser>
+    <AffiliateID>0</AffiliateID>
+    <Time>10:10 AM</Time>
+    <UseVATSetting>1</UseVATSetting>
+    <CurrencySetting>USD</CurrencySetting>
+    <CustomerLevelID>0</CustomerLevelID>
+    <WebConfigLocaleSetting>en-US</WebConfigLocaleSetting>
+    <PageName>default.aspx</PageName>
+    <FilterNews>False</FilterNews>
+    <FilterProduct>False</FilterProduct>
+  </Runtime>
+  <EntityHelpers>
+    <Category>
+      <Entity>
+        <EntityID>8</EntityID>
+        <XmlPackage>entity.rootlevel.xml.config</XmlPackage>
+        <Name>Striking Tools</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>striking-tools</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+        <Entity>
+          <EntityID>9</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Specialty</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>specialty</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>10</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Steel Hickory</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>steel-hickory</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>11</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Tibone (TM) Technology</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>tibone-tm-technology</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>13</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Titanium Hickory</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>titanium-hickory</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>14</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Titanium Poly Fiberglass</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>titanium-poly-fiberglass</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+      </Entity>
+      <Entity>
+        <EntityID>15</EntityID>
+        <XmlPackage>entity.grid.xml.config</XmlPackage>
+        <Name>Struck Tools</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>2</DisplayOrder>
+        <Published>1</Published>
+        <SEName>struck-tools</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+        <Entity>
+          <EntityID>12</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Titanium Bars</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>15</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>titanium-bars</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+      </Entity>
+      <Entity>
+        <EntityID>2</EntityID>
+        <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+        <Name>Accessories</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>3</DisplayOrder>
+        <Published>1</Published>
+        <SEName>accessories</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>3</EntityID>
+        <XmlPackage>entity.grid.xml.config</XmlPackage>
+        <Name>Replacement Parts</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>4</DisplayOrder>
+        <Published>1</Published>
+        <SEName>replacement-parts</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+        <Entity>
+          <EntityID>4</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Bolt Kits</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>3</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>bolt-kits</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>6</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Handles</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>3</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>handles</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>7</EntityID>
+          <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+          <Name>Replacement Faces</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>3</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>replacement-faces</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+      </Entity>
+      <Entity>
+        <EntityID>5</EntityID>
+        <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+        <Name>Combo Kits</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>5</DisplayOrder>
+        <Published>1</Published>
+        <SEName>combo-kits</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>16</EntityID>
+        <XmlPackage>entity.grid.xml.config</XmlPackage>
+        <Name>Stiletto Gear</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description>&lt;span style="font-size: 14px;"&gt;&lt;a target="_blank" href="http://secure.wildimpact.com/Default.aspx?alias=secure.wildimpact.com/stiletto"&gt;&lt;span id="dnn_ctr1967_dnnTITLE_lblTitle" class="thirteen arial bold
+white" style="font-size: 14px;"&gt;Click here for Stiletto Tools Promotional Products Catalog&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+</Description>
+        <DisplayOrder>6</DisplayOrder>
+        <Published>1</Published>
+        <SEName>stiletto-gear</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Category>
+    <Section>
+      <Entity>
+        <EntityID>1</EntityID>
+        <XmlPackage />
+        <Name>Cool Stuff</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>cool-stuff</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Section>
+    <Manufacturer>
+      <Entity>
+        <EntityID>2</EntityID>
+        <XmlPackage />
+        <Name>Stiletto</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>stiletto</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>1</EntityID>
+        <XmlPackage />
+        <Name>test</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>test</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Manufacturer>
+    <Library />
+    <Distributor>
+      <Entity>
+        <EntityID>3</EntityID>
+        <XmlPackage>entity.grid.xml.config</XmlPackage>
+        <Name>Cragin Industrial Supply CO</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>cragin-industrial-supply-co</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>2</EntityID>
+        <XmlPackage />
+        <Name>Stiletto</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>stiletto</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Distributor>
+    <Genre />
+    <Vector />
+  </EntityHelpers>
+</root>

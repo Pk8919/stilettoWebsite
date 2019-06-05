@@ -1,0 +1,33 @@
+<ConfigurationAtom>
+  <HtmlHeader>
+    <![CDATA[
+      <table width="780" cellpadding="4" cellspacing="0" class="modalTable">
+      <tbody>
+      <tr>
+
+      <td width="225">
+        <img src="images/Google Checkout.gif" border="0"/>
+      </td>
+        <td width="200" class="globalAdmin" align="right">
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=signup" target="_blank">Sign Up</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=info" target="_blank">More info about Google Checkout</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=manual" target="_blank">Configuration Help</a>
+      </td>
+
+      </tr>
+      </tbody>
+      </table>
+    ]]>
+  </HtmlHeader>
+  <Title>Advanced Google Checkout Configuration</Title>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Live Checkout Button"><Name>GoogleCheckout.LiveCheckoutButton</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="SandBox Checkout Button"><Name>GoogleCheckout.SandBoxCheckoutButton</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Live Endpoint URL"><Name>GoogleCheckout.BaseUrl</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="SandBx Endpoint URL"><Name>GoogleCheckout.SandBoxCheckoutURL</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Diagnostics Only"><Name>GoogleCheckout.DiagnosticsOnly</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Log File Name"><Name>GoogleCheckout.LogFileName</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Log Messages"><Name>GoogleCheckout.LogMessages</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Authenticate Callback"><Name>GoogleCheckout.AuthenticateCallback</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Conversion URL"><Name>GoogleCheckout.ConversionURL</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Conversion Parameters"><Name>GoogleCheckout.ConversionParameters</Name></AppConfig>
+</ConfigurationAtom>

@@ -1,0 +1,38 @@
+<ConfigurationAtom>
+  <HtmlHeader>
+    <![CDATA[
+      <table width="780" cellpadding="4" cellspacing="0" class="modalTable">
+      <tbody>
+      <tr>
+
+      <td width="225">
+        <img src="images/Google Checkout.gif" border="0"/>
+      </td>
+        <td width="200" class="globalAdmin" align="right">
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=signup" target="_blank">Sign Up</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=info" target="_blank">More info about Google Checkout</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=manual" target="_blank">Configuration Help</a>
+      </td>
+
+      </tr>
+      </tbody>
+      </table>
+    ]]>
+  </HtmlHeader>
+  <Title>Configure Google Checkout Carrier Calculated Shipping</Title>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Enable Carrier Calculated Shipping">
+    <Name>GoogleCheckout.CarrierCalculatedShippingEnabled</Name>
+  </AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Price">
+    <Name>GoogleCheckout.CarrierCalculatedDefaultPrice</Name>
+  </AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Free Option">
+    <Name>GoogleCheckout.CarrierCalculatedFreeOption</Name>
+  </AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Package">
+    <Name>GoogleCheckout.CarrierCalculatedPackage</Name>
+  </AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Option">
+    <Name>GoogleCheckout.CarrierCalculatedShippingOptions</Name>
+  </AppConfig>
+</ConfigurationAtom>

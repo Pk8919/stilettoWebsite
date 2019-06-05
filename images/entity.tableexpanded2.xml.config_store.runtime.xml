@@ -1,0 +1,701 @@
+<root>
+  <System>
+    <IsAdminSite>False</IsAdminSite>
+    <IsAdminSiteInt>0</IsAdminSiteInt>
+    <CustomerID>58641</CustomerID>
+    <DefaultVATSetting>1</DefaultVATSetting>
+    <CustomerVATSetting>1</CustomerVATSetting>
+    <UseVATSetting>1</UseVATSetting>
+    <CustomerLevelID>0</CustomerLevelID>
+    <CustomerLevelName>
+    </CustomerLevelName>
+    <CustomerFirstName>Jim</CustomerFirstName>
+    <CustomerLastName>Pearce</CustomerLastName>
+    <CustomerFullName>Jim Pearce</CustomerFullName>
+    <SubscriptionExpiresOn>
+    </SubscriptionExpiresOn>
+    <CustomerRoles>Free,Admin,NoSubscription,Registered</CustomerRoles>
+    <IsAdminUser>True</IsAdminUser>
+    <IsSuperUser>False</IsSuperUser>
+    <VAT.Enabled>false</VAT.Enabled>
+    <VAT.AllowCustomerToChooseSetting>true</VAT.AllowCustomerToChooseSetting>
+    <LocaleSetting>en-US</LocaleSetting>
+    <CurrencySetting>USD</CurrencySetting>
+    <CurrencyDisplayLocaleFormat>
+    </CurrencyDisplayLocaleFormat>
+    <WebConfigLocaleSetting>en-US</WebConfigLocaleSetting>
+    <SqlServerLocaleSetting>en-US</SqlServerLocaleSetting>
+    <PrimaryCurrency>USD</PrimaryCurrency>
+    <PrimaryCurrencyDisplayLocaleFormat>
+    </PrimaryCurrencyDisplayLocaleFormat>
+    <Date>6/11/2010</Date>
+    <Time>11:31 AM</Time>
+    <SkinID>1</SkinID>
+    <AffiliateID>0</AffiliateID>
+    <IPAddress>75.145.182.73</IPAddress>
+    <QueryStringRAW>
+    </QueryStringRAW>
+    <UseStaticLinks>
+    </UseStaticLinks>
+    <PageName>c-2-accessories.aspx</PageName>
+    <FullPageName>/c-2-accessories.aspx</FullPageName>
+    <XmlPackageName>entity.tableexpanded2.xml.config</XmlPackageName>
+    <StoreUrl>http://66.9.38.76/</StoreUrl>
+    <CurrentDateTime>Fri, 11 Jun 2010 16:31:24 GMT</CurrentDateTime>
+    <CustomerIsRegistered>true</CustomerIsRegistered>
+    <StoreID>1</StoreID>
+    <FilterProduct>False</FilterProduct>
+    <FilterEntity>False</FilterEntity>
+    <FilterTopic>False</FilterTopic>
+    <FilterNews>False</FilterNews>
+    <RequestedPage>c-2-accessories.aspx</RequestedPage>
+    <RequestedQuerystring>
+    </RequestedQuerystring>
+  </System>
+  <QueryString />
+  <Form />
+  <Session />
+  <Cookies>
+    <Referrer>http://66.9.38.76/</Referrer>
+    <ASPDNSFGUID>545FAE43A000BC60BA2393B6CC84A4F90CB3940A318C799218049D9691B9A770770986938B0B3B3FCD2BA8527B513A2D608E985D0E1F2CFC2ACDF1AA95A2BADD390EE419D003BF068ADE105A7892D9D399A1F82AC6186BABC07E90C30F6F574DA988EDAE575D43FF1EF623ECCDD33D77E71E1B332867871C321758A748494DB1</ASPDNSFGUID>
+  </Cookies>
+  <ServerVariables>
+    <HTTP_HOST>66.9.38.76</HTTP_HOST>
+    <HTTP_USER_AGENT>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729)</HTTP_USER_AGENT>
+    <AUTH_TYPE>Forms</AUTH_TYPE>
+    <AUTH_USER>47a99780-a9db-4265-ae40-456853544bb5</AUTH_USER>
+    <AUTH_PASSWORD>
+    </AUTH_PASSWORD>
+    <HTTPS>off</HTTPS>
+    <LOCAL_ADDR>10.10.10.76</LOCAL_ADDR>
+    <PATH_INFO>/c-2-accessories.aspx</PATH_INFO>
+    <PATH_TRANSLATED>C:\inetpub\wwwroot\c-2-accessories.aspx</PATH_TRANSLATED>
+    <SCRIPT_NAME>/c-2-accessories.aspx</SCRIPT_NAME>
+    <SERVER_NAME>66.9.38.76</SERVER_NAME>
+    <SERVER_PORT_SECURE>0</SERVER_PORT_SECURE>
+    <HTTP_CLUSTER_HTTPS>
+    </HTTP_CLUSTER_HTTPS>
+  </ServerVariables>
+  <Runtime>
+    <SqlServerLocaleSetting>en-US</SqlServerLocaleSetting>
+    <ProductTypeFilterID>0</ProductTypeFilterID>
+    <SecID>0</SecID>
+    <CustomerLevelName>
+    </CustomerLevelName>
+    <CustomerFullName>Jim Pearce</CustomerFullName>
+    <IsAdminUser>True</IsAdminUser>
+    <IsAdminSiteInt>0</IsAdminSiteInt>
+    <WebConfigLocaleSetting>en-US</WebConfigLocaleSetting>
+    <FilterEntity>False</FilterEntity>
+    <PrimaryCurrency>USD</PrimaryCurrency>
+    <CustomerVATSetting>1</CustomerVATSetting>
+    <CustomerRoles>Free,Admin,NoSubscription,Registered</CustomerRoles>
+    <CurrencyDisplayLocaleFormat>
+    </CurrencyDisplayLocaleFormat>
+    <XmlPackageName>entity.tableexpanded2.xml.config</XmlPackageName>
+    <IsAdminSite>False</IsAdminSite>
+    <FilterTopic>False</FilterTopic>
+    <EntityID>2</EntityID>
+    <UseStaticLinks>False</UseStaticLinks>
+    <StoreUrl>http://66.9.38.76/</StoreUrl>
+    <SubscriptionExpiresOn>
+    </SubscriptionExpiresOn>
+    <Date>6/11/2010</Date>
+    <StoreID>1</StoreID>
+    <GenreID>0</GenreID>
+    <VAT.AllowCustomerToChooseSetting>True</VAT.AllowCustomerToChooseSetting>
+    <CustomerIsRegistered>true</CustomerIsRegistered>
+    <VAT.Enabled>False</VAT.Enabled>
+    <IPAddress>75.145.182.73</IPAddress>
+    <PrimaryCurrencyDisplayLocaleFormat>
+    </PrimaryCurrencyDisplayLocaleFormat>
+    <ManID>0</ManID>
+    <QueryStringRAW>
+    </QueryStringRAW>
+    <CustomerLastName>Pearce</CustomerLastName>
+    <DefaultVATSetting>1</DefaultVATSetting>
+    <CustomerFirstName>Jim</CustomerFirstName>
+    <LocaleSetting>en-US</LocaleSetting>
+    <DistID>0</DistID>
+    <IsSuperUser>False</IsSuperUser>
+    <AffiliateID>0</AffiliateID>
+    <FullPageName>/c-2-accessories.aspx</FullPageName>
+    <CatID>2</CatID>
+    <Time>11:31 AM</Time>
+    <FilterNews>False</FilterNews>
+    <UseVATSetting>1</UseVATSetting>
+    <EntityName>Category</EntityName>
+    <CurrencySetting>USD</CurrencySetting>
+    <CustomerLevelID>0</CustomerLevelID>
+    <PageName>c-2-accessories.aspx</PageName>
+    <VectorID>0</VectorID>
+    <SkinID>1</SkinID>
+    <FilterProduct>False</FilterProduct>
+  </Runtime>
+  <Products>
+    <Product>
+      <ProductID>3</ProductID>
+      <Name>18" AirGrip "Coldshrink" Handle Grip Wrap tube</Name>
+      <VariantID>3</VariantID>
+      <VariantName />
+      <ProductGUID>11d00751-6c75-49be-a895-25442cf2c422</ProductGUID>
+      <Summary>Our innovative handle grip wrap.  2" x 18" pre-expanded rubber tube
+shrinks to fit any handle. Non-slip hand grip increases job safety and
+reduces hand fatigue at the end of the day. 
+</Summary>
+      <Description>&lt;p class="style7 style9"&gt;Our innovative handle grip wrap.  2" x 18" pre-expanded rubber tube shrinks to fit any handle. Non-slip hand grip increases job safety and reduces hand fatigue at the end of the day &lt;/p&gt;
+&lt;p class="style7"&gt;Features:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Easy to apply - no heat gun or adhesive needed&lt;/li&gt;
+    &lt;li&gt;fits any handle from 1 7/8" down to 3/4" diameters&lt;/li&gt;
+    &lt;li&gt;Great grip for long-handle tools; shovels, rakes, picks, sledges and post hole diggers.&lt;/li&gt;
+    &lt;li&gt;Ergonomic! loosening your grip reduces your risk of Carpal Tunnel and Cummulative Trauma Disorders!&lt;/li&gt;
+&lt;/ul&gt;
+</Description>
+      <SEKeywords />
+      <SEDescription />
+      <SpecTitle />
+      <MiscText />
+      <SwatchImageMap />
+      <IsFeaturedTeaser />
+      <FroogleDescription />
+      <SETitle />
+      <SENoScript />
+      <SEAltText>18" AirGrip "Coldshrink" Handle Grip Wrap tube</SEAltText>
+      <SizeOptionPrompt />
+      <ColorOptionPrompt />
+      <TextOptionPrompt />
+      <ProductTypeID>1</ProductTypeID>
+      <TaxClassID>1</TaxClassID>
+      <SKU>AG-180</SKU>
+      <ManufacturerPartNumber>AG-180</ManufacturerPartNumber>
+      <SalesPromptID>1</SalesPromptID>
+      <SpecCall />
+      <SpecsInline>0</SpecsInline>
+      <IsFeatured>0</IsFeatured>
+      <XmlPackage>product.variantsinrightbar.xml.config</XmlPackage>
+      <ColWidth>4</ColWidth>
+      <Published>1</Published>
+      <RequiresRegistration>0</RequiresRegistration>
+      <Looks>65</Looks>
+      <Notes />
+      <QuantityDiscountID>0</QuantityDiscountID>
+      <RelatedProducts />
+      <UpsellProducts />
+      <UpsellProductDiscountPercentage>0.0000</UpsellProductDiscountPercentage>
+      <RelatedDocuments />
+      <TrackInventoryBySizeAndColor>0</TrackInventoryBySizeAndColor>
+      <TrackInventoryBySize>0</TrackInventoryBySize>
+      <TrackInventoryByColor>0</TrackInventoryByColor>
+      <IsAKit>0</IsAKit>
+      <ShowInProductBrowser>1</ShowInProductBrowser>
+      <IsAPack>0</IsAPack>
+      <PackSize>0</PackSize>
+      <ShowBuyButton>1</ShowBuyButton>
+      <RequiresProducts />
+      <HidePriceUntilCart>0</HidePriceUntilCart>
+      <IsCalltoOrder>0</IsCalltoOrder>
+      <ExcludeFromPriceFeeds>0</ExcludeFromPriceFeeds>
+      <RequiresTextOption>0</RequiresTextOption>
+      <TextOptionMaxLength>0</TextOptionMaxLength>
+      <SEName>18-airgrip-coldshrink-handle-grip-wrap-tube</SEName>
+      <Deleted>0</Deleted>
+      <CreatedOn>6/3/2010 6:09:03 PM</CreatedOn>
+      <ImageFileNameOverride>AG-180_small.jpg</ImageFileNameOverride>
+      <VariantGUID>06750f55-26fa-4093-b762-9f984b38db63</VariantGUID>
+      <VariantDescription />
+      <VariantSEKeywords />
+      <VariantSEDescription />
+      <Colors />
+      <ColorSKUModifiers />
+      <Sizes />
+      <SizeSKUModifiers />
+      <VariantFroogleDescription />
+      <SKUSuffix />
+      <VariantManufacturerPartNumber />
+      <Price>22.9500</Price>
+      <CustomerEntersPrice>0</CustomerEntersPrice>
+      <CustomerEntersPricePrompt />
+      <SalePrice>0.0000</SalePrice>
+      <Weight>4.0</Weight>
+      <MSRP>22.9500</MSRP>
+      <Cost>16.0000</Cost>
+      <Points>0</Points>
+      <Dimensions>22.5"L x 5.5"W x 3"H</Dimensions>
+      <Inventory>100</Inventory>
+      <VariantDisplayOrder>1</VariantDisplayOrder>
+      <VariantNotes />
+      <IsTaxable>1</IsTaxable>
+      <IsShipSeparately>0</IsShipSeparately>
+      <IsDownload>0</IsDownload>
+      <DownloadLocation />
+      <VariantPublished>1</VariantPublished>
+      <IsSecureAttachment>0</IsSecureAttachment>
+      <IsRecurring>0</IsRecurring>
+      <RecurringInterval>1</RecurringInterval>
+      <RecurringIntervalType>3</RecurringIntervalType>
+      <SubscriptionInterval />
+      <VariantSEName />
+      <RestrictedQuantities />
+      <MinimumQuantity />
+      <VariantDeleted>0</VariantDeleted>
+      <VariantCreatedOn>6/3/2010 6:09:03 PM</VariantCreatedOn>
+      <DistributorName>Stiletto</DistributorName>
+      <DistributorID>2</DistributorID>
+      <DistributorSEName>stiletto</DistributorSEName>
+      <ManufacturerID>2</ManufacturerID>
+      <ManufacturerName>Stiletto</ManufacturerName>
+      <ManufacturerSEName>stiletto</ManufacturerSEName>
+      <SalesPromptName>On Sale For</SalesPromptName>
+      <ExtendedPrice>0.0000</ExtendedPrice>
+    </Product>
+    <Product>
+      <ProductID>2</ProductID>
+      <Name>8" AirGrip "Coldshrink" Handle Grip Wrap tube</Name>
+      <VariantID>2</VariantID>
+      <VariantName />
+      <ProductGUID>84c6deb3-1117-48ec-b597-14e212879af2</ProductGUID>
+      <Summary>Not Used On Site Anywhere</Summary>
+      <Description>&lt;p class="style7 style9"&gt;Our innovative handle grip wrap.  2" x 8" pre-expanded rubber tube shrinks to fit any handle. Non-slip hand grip increases job safety and reduces hand fatigue at the end of the day &lt;/p&gt;  &lt;p class="style7"&gt;Features:&lt;/p&gt;  &lt;ul&gt;      &lt;li&gt;Easy to apply - no heat gun or adhesive needed&lt;/li&gt;      &lt;li&gt;fits any handle from 1 7/8" down to 3/4" diameters &lt;/li&gt;      &lt;li&gt;Great grip for wheelbarrows, picks, sledges - even flashlights.&lt;/li&gt;      &lt;li&gt;Ergonomic! loosening your grip reduces your risk of Carpal Tunnel and Cummulative Trauma Disorders!&lt;/li&gt;  &lt;/ul&gt;</Description>
+      <SEKeywords />
+      <SEDescription />
+      <SpecTitle />
+      <MiscText />
+      <SwatchImageMap />
+      <IsFeaturedTeaser />
+      <FroogleDescription />
+      <SETitle />
+      <SENoScript />
+      <SEAltText>8" AirGrip "Coldshrink" Handle Grip Wrap tube</SEAltText>
+      <SizeOptionPrompt />
+      <ColorOptionPrompt />
+      <TextOptionPrompt />
+      <ProductTypeID>1</ProductTypeID>
+      <TaxClassID>1</TaxClassID>
+      <SKU>AG-102</SKU>
+      <ManufacturerPartNumber>AG-102</ManufacturerPartNumber>
+      <SalesPromptID>1</SalesPromptID>
+      <SpecCall />
+      <SpecsInline>0</SpecsInline>
+      <IsFeatured>0</IsFeatured>
+      <XmlPackage>product.variantsinrightbar.xml.config</XmlPackage>
+      <ColWidth>4</ColWidth>
+      <Published>1</Published>
+      <RequiresRegistration>0</RequiresRegistration>
+      <Looks>2</Looks>
+      <Notes />
+      <QuantityDiscountID />
+      <RelatedProducts />
+      <UpsellProducts />
+      <UpsellProductDiscountPercentage>0.0000</UpsellProductDiscountPercentage>
+      <RelatedDocuments />
+      <TrackInventoryBySizeAndColor>0</TrackInventoryBySizeAndColor>
+      <TrackInventoryBySize>0</TrackInventoryBySize>
+      <TrackInventoryByColor>0</TrackInventoryByColor>
+      <IsAKit>0</IsAKit>
+      <ShowInProductBrowser>1</ShowInProductBrowser>
+      <IsAPack>0</IsAPack>
+      <PackSize>0</PackSize>
+      <ShowBuyButton>1</ShowBuyButton>
+      <RequiresProducts />
+      <HidePriceUntilCart>0</HidePriceUntilCart>
+      <IsCalltoOrder>0</IsCalltoOrder>
+      <ExcludeFromPriceFeeds>0</ExcludeFromPriceFeeds>
+      <RequiresTextOption>0</RequiresTextOption>
+      <TextOptionMaxLength />
+      <SEName>8-airgrip-coldshrink-handle-grip-wrap-tube</SEName>
+      <Deleted>0</Deleted>
+      <CreatedOn>6/3/2010 6:09:03 PM</CreatedOn>
+      <ImageFileNameOverride>AG-102_small.jpg</ImageFileNameOverride>
+      <VariantGUID>c7de5d0c-58dd-4575-9662-b4e8af1c6fd5</VariantGUID>
+      <VariantDescription />
+      <VariantSEKeywords />
+      <VariantSEDescription />
+      <Colors />
+      <ColorSKUModifiers />
+      <Sizes />
+      <SizeSKUModifiers />
+      <VariantFroogleDescription />
+      <SKUSuffix />
+      <VariantManufacturerPartNumber />
+      <Price>12.9500</Price>
+      <CustomerEntersPrice>0</CustomerEntersPrice>
+      <CustomerEntersPricePrompt />
+      <SalePrice>0.0000</SalePrice>
+      <Weight>4.0</Weight>
+      <MSRP>12.9500</MSRP>
+      <Cost>7.9500</Cost>
+      <Points>0</Points>
+      <Dimensions>8.00"L x 2.00"W x 2.00"H</Dimensions>
+      <Inventory>100</Inventory>
+      <VariantDisplayOrder>1</VariantDisplayOrder>
+      <VariantNotes />
+      <IsTaxable>1</IsTaxable>
+      <IsShipSeparately>0</IsShipSeparately>
+      <IsDownload>0</IsDownload>
+      <DownloadLocation />
+      <VariantPublished>1</VariantPublished>
+      <IsSecureAttachment>0</IsSecureAttachment>
+      <IsRecurring>0</IsRecurring>
+      <RecurringInterval>1</RecurringInterval>
+      <RecurringIntervalType>3</RecurringIntervalType>
+      <SubscriptionInterval />
+      <VariantSEName />
+      <RestrictedQuantities />
+      <MinimumQuantity />
+      <VariantDeleted>0</VariantDeleted>
+      <VariantCreatedOn>6/3/2010 6:09:03 PM</VariantCreatedOn>
+      <DistributorName>Stiletto</DistributorName>
+      <DistributorID>2</DistributorID>
+      <DistributorSEName>stiletto</DistributorSEName>
+      <ManufacturerID>2</ManufacturerID>
+      <ManufacturerName>Stiletto</ManufacturerName>
+      <ManufacturerSEName>stiletto</ManufacturerSEName>
+      <SalesPromptName>On Sale For</SalesPromptName>
+      <ExtendedPrice>0.0000</ExtendedPrice>
+    </Product>
+  </Products>
+  <Products2>
+    <Product>
+      <pages>1</pages>
+      <ProductCount>2</ProductCount>
+    </Product>
+  </Products2>
+  <EntityHelpers>
+    <Category>
+      <Entity>
+        <EntityID>2</EntityID>
+        <XmlPackage>entity.tableexpanded2.xml.config</XmlPackage>
+        <Name>Accessories</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>accessories</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>5</EntityID>
+        <XmlPackage />
+        <Name>Combo Kits</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>combo-kits</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>3</EntityID>
+        <XmlPackage />
+        <Name>Replacement Parts</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>replacement-parts</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+        <Entity>
+          <EntityID>4</EntityID>
+          <XmlPackage />
+          <Name>Bolt Kits</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>3</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>bolt-kits</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>6</EntityID>
+          <XmlPackage />
+          <Name>Handles</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>3</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>handles</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>7</EntityID>
+          <XmlPackage />
+          <Name>Replacement Faces</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>3</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>replacement-faces</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+      </Entity>
+      <Entity>
+        <EntityID>8</EntityID>
+        <XmlPackage />
+        <Name>Striking Tools</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>striking-tools</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+        <Entity>
+          <EntityID>9</EntityID>
+          <XmlPackage />
+          <Name>Specialty</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>specialty</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>10</EntityID>
+          <XmlPackage />
+          <Name>Steel Hickory</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>steel-hickory</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>11</EntityID>
+          <XmlPackage />
+          <Name>Tibone (TM) Technology</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>tibone-tm-technology</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>12</EntityID>
+          <XmlPackage />
+          <Name>Titanium Bars</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>titanium-bars</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>13</EntityID>
+          <XmlPackage />
+          <Name>Titanium Hickory</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>titanium-hickory</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+        <Entity>
+          <EntityID>14</EntityID>
+          <XmlPackage />
+          <Name>Titanium Poly Fiberglass</Name>
+          <ColWidth>4</ColWidth>
+          <ParentEntityID>8</ParentEntityID>
+          <Description />
+          <DisplayOrder>1</DisplayOrder>
+          <Published>1</Published>
+          <SEName>titanium-poly-fiberglass</SEName>
+          <PageSize>20</PageSize>
+          <SETitle />
+          <SETitle />
+          <SEDescription />
+          <SEKeywords />
+          <SENoScript />
+          <TemplateName />
+        </Entity>
+      </Entity>
+    </Category>
+    <Section>
+      <Entity>
+        <EntityID>1</EntityID>
+        <XmlPackage />
+        <Name>Cool Stuff</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>cool-stuff</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Section>
+    <Manufacturer>
+      <Entity>
+        <EntityID>2</EntityID>
+        <XmlPackage />
+        <Name>Stiletto</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>stiletto</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>1</EntityID>
+        <XmlPackage />
+        <Name>test</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>test</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Manufacturer>
+    <Library />
+    <Distributor>
+      <Entity>
+        <EntityID>2</EntityID>
+        <XmlPackage />
+        <Name>Stiletto</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>stiletto</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+      <Entity>
+        <EntityID>1</EntityID>
+        <XmlPackage />
+        <Name>test</Name>
+        <ColWidth>4</ColWidth>
+        <ParentEntityID>0</ParentEntityID>
+        <Description />
+        <DisplayOrder>1</DisplayOrder>
+        <Published>1</Published>
+        <SEName>test</SEName>
+        <PageSize>20</PageSize>
+        <SETitle />
+        <SETitle />
+        <SEDescription />
+        <SEKeywords />
+        <SENoScript />
+        <TemplateName />
+      </Entity>
+    </Distributor>
+    <Genre />
+    <Vector />
+  </EntityHelpers>
+</root>

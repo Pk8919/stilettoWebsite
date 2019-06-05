@@ -1,0 +1,88 @@
+﻿9/11/2007 2:57:09 PM: Starting AspDotNetStorefront...
+
+9/11/2007 2:57:09 PM: Testing DBConn...
+
+9/11/2007 2:57:10 PM: DBConn OK.
+
+9/11/2007 2:57:10 PM: AppLogic.ApplicationStart...
+
+9/11/2007 2:57:10 PM: Determine Trust Level...
+
+9/11/2007 2:57:10 PM: Determine Trust Level OK.
+
+9/11/2007 2:57:10 PM: ClearCache...
+
+9/11/2007 2:57:10 PM: ClearCache OK.
+
+9/11/2007 2:57:10 PM: Application.Clear...
+
+9/11/2007 2:57:10 PM: Application.Clear OK.
+
+9/11/2007 2:57:10 PM: Application.RemoveAll...
+
+9/11/2007 2:57:10 PM: Application.RemoveAll OK.
+
+9/11/2007 2:57:10 PM: ExcelToXml.SetLicense...
+
+9/11/2007 2:57:10 PM: ExcelToXml.SetLicense OK.
+
+9/11/2007 2:57:10 PM: ComponentArt License...
+
+9/11/2007 2:57:10 PM: ComponentArt License OK.
+
+9/11/2007 2:57:10 PM: AppConfig Load...
+
+9/11/2007 2:57:10 PM: AppConfig Load OK.
+
+9/11/2007 2:57:10 PM: EventHandler Load...
+
+9/11/2007 2:57:11 PM: EventHandler Load OK.
+
+9/11/2007 2:57:11 PM: Load StringResources...
+
+9/11/2007 2:57:11 PM: Load StringResources OK.
+
+9/11/2007 2:57:11 PM: Load EntityHelpers...
+
+9/11/2007 2:57:13 PM: Load EntityHelpers OK.
+
+9/11/2007 2:57:13 PM: License Check...
+
+9/11/2007 2:57:13 PM: License Check Completed.
+
+9/11/2007 2:57:13 PM: Load Tax Tables...
+
+9/11/2007 2:57:13 PM: Load Tax Tables OK.
+
+9/11/2007 2:57:13 PM: Setup 49...
+
+9/11/2007 2:57:13 PM: Setup 49 OK.
+
+9/11/2007 2:57:13 PM: CustomerSession.StaticClear...
+
+9/11/2007 2:57:13 PM: CustomerSession.StaticClear OK.
+
+9/11/2007 2:57:13 PM: Load CustomerLevels...
+
+9/11/2007 2:57:13 PM: Load CustomerLevels OK.
+
+9/11/2007 2:57:13 PM: CC Check...
+
+9/11/2007 2:57:13 PM: CC Check OK.
+
+9/11/2007 2:57:13 PM: NextKeyChangeCheck...
+
+9/11/2007 2:57:13 PM: NextKeyChangeCheck OK.
+
+9/11/2007 2:57:13 PM: Legacy ConvertAllPasswords...
+
+9/11/2007 2:57:13 PM: Legacy ConvertAllPasswords OK.
+
+9/11/2007 2:57:13 PM: Legacy UpgradeEncryption...
+
+9/11/2007 2:57:14 PM: Legacy UpgradeEncryption OK.
+
+9/11/2007 2:57:14 PM: AppLogic.ApplicationStart OK.
+
+9/11/2007 2:57:14 PM: AspDotNetStorefront Started OK.
+

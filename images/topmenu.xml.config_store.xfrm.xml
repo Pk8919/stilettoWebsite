@@ -1,0 +1,39 @@
+<ul class="sf-menu">
+  <li><a href="/">Home</a></li>
+  <li><a href="#">Products</a><ul>
+      <li><a href="c-8-striking-tools.aspx">Striking Tools</a></li>
+      <li><a href="c-15-struck-tools.aspx">Struck Tools</a></li>
+      <li><a href="c-2-accessories.aspx">Accessories</a></li>
+      <li><a href="c-3-replacement-parts.aspx">Replacement Parts</a></li>
+      <li><a href="c-5-combo-kits.aspx">Combo Kits</a></li>
+      <li><a href="c-16-stiletto-gear.aspx">Stiletto Gear</a></li>
+    </ul>
+  </li>
+  <li><a href="#">What's New</a><ul>
+      <li><a href="/t-now-available.aspx">Now Available</a></li>
+      <li><a href="/t-press.aspx">Product Reviews</a></li>
+      <li><a href="/t-testimonials.aspx">Testimonials</a></li>
+      <li><a href="/t-crews.aspx">Crews and Projects</a></li>
+    </ul>
+  </li>
+  <li><a href="/t-service.aspx">Customer Service</a><ul>
+      <li><a href="/account.aspx">Your Account</a></li>
+      <li><a href="/t-faq.aspx">FAQs</a></li>
+      <li><a href="/t-returns.aspx">Returns Policy</a></li>
+      <li><a href="/t-shipping.aspx">Shipping Info</a></li>
+      <li><a href="/t-contact.aspx">Contact Us</a></li>
+      <li><a href="/t-privacy.aspx">Privacy Policy</a></li>
+      <li><a href="/t-security.aspx">Security Policy</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Where to Buy</a><ul>
+      <li><a href="http://stiletto.know-where.com/stiletto/">Store Front Distributors</a></li>
+      <li><a href="/t-online-distributors.aspx">Online Distributors</a></li>
+    </ul>
+  </li>
+  <li><a href="/t-about.aspx">About Us</a></li>
+</ul><script language="javascript">
+                $(document).ready(function() {
+                  $('ul.sf-menu').superfish();
+                });
+              </script>

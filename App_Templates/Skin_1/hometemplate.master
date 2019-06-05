@@ -1,0 +1,138 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="AspDotNetStorefront.MasterPageBase" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register TagPrefix="aspdnsfc" Namespace="AspDotNetStorefrontControls" Assembly="AspDotNetStorefrontControls" %>
+<%@ Register TagPrefix="mavidea" TagName="ConstantContact" Src="~/App_Templates/Skin_1/controls/ConstantContact.ascx" %>
+<%@ Import Namespace="AspDotNetStorefrontCore" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <%-- compatibility mode with ie8 to prevent the aspnet menu to render blank dropdowns --%>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <%-- Leave the title empty, it will get populated at runtime --%>
+    <title></title>
+    <%-- Leave the description and keyword content empty, it will get populated at runtime --%>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <%-- The skin ref will base on the current theme applied so we don't need to declare here which css file to use --%>
+    <%--<link runat="server" rel="stylesheet" href="~/skins/skin_1/style.css" type="text/css">--%>
+
+    <script language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script language="javascript" src="jscripts/superfish.js"></script>
+    <script type="text/javascript" src="jscripts/core.js"></script>
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+</head>
+<body>
+    <asp:Literal ID="adminAlert" runat="server" Text='<%$ Tokens: XmlPackage, skin.adminalert.xml.config %>' />
+    <asp:Literal ID="ltrPageInfo" runat="server" Text='<%$ Tokens:PageInfo %>' />
+    <form id="form1" runat="server">
+    <%  if (RequireScriptManager)
+        { %>
+    <%-- Only render for pages that require ajax --%>
+    <asp:ScriptManager ID="scrptMgr" runat="server">
+    </asp:ScriptManager>
+    <% } %>
+  <div id="header">
+       <div id="headercontent"> 
+            <a runat="server" id="logo" href="~/default.aspx" title="Stiletto Tools"><strong>Stiletto Titanium Tools</strong></a>
+            <div class="headRightWrapper">
+                <ul id="headLinks">
+                  <li>  <span id="userName">
+                            <asp:Literal ID="ltrUserName" runat="server" Text='<%$ Tokens:UserName %>' /></span>
+                            <span id="loginText"><a href='<asp:Literal ID="Literal1" runat="server" Text="<%$ Tokens:SignInOut_Link %>" />'><asp:Literal
+                        ID="ltrSignInOutText" runat="server" Text='<%$ Tokens:SignInOut_Text %>' /></a></span>
+                  </li>
+                  <li>           
+                   <a runat="server" href="~/account.aspx">Account</a>
+                 </li>
+                  <li>
+             <%  if (ShowMiniCart == false)
+                { %>
+            <%-- If minicart is not enabled, use the default link --%>
+                <asp:Panel ID="pnlShoppingCart" runat="server">
+                    <a runat="server" class="cart" href="~/shoppingcart.aspx">My Cart: <strong>(<asp:Literal
+                        ID="ltrNumCartItems" runat="server" Text='<%$ Tokens:Num_Cart_Items %>' />) item(s)</strong></a></asp:Panel>
+            <% } %>
+</li>
+</ul>
+<div id="searchForm">
+                <aspdnsf:Search ID="ctrlSearch" runat="server" CssClass="search" SearchButtonCaption=""
+                SearchCaption="<%$ Tokens: StringResource, common.cs.82 %>" SearchTextMinLength="<%$ Tokens:AppConfigUSInt, MinSearchStringLength %>"
+                SearchTextMinLengthInvalidErrorMessage="<%$ Tokens: StringResource, search.aspx.2 %>"
+                ValidateInputLength="true" ShowValidationMessageBox="true" ShowValidationSummary="false" />
+                <span class="phone">Order by Phone: <strong>1-800-987-1849</strong></span>
+                </div>
+                </div>
+                </div>
+                <div id="navWrap">
+                <div id="horizNav">
+            <!-- TOP MENU -->
+            <asp:Literal ID="Menu" runat="server" Text="<%$ Tokens:XmlPackage, topmenu.xml.config %>" />
+            <!-- END TOP MENU -->
+        </div>
+        <!--   <ul id="socialLinks">
+            <li class="firstsocial"><a runat="server" href="#" target="_blank" title="Follow Stiletto on Facebook"><img src="/images/facebook.png" alt="Follow Stiletto on Facebook" /></a></li>
+            <li><a runat="server" href="#" target="_blank" title="Follow Stiletto on Twitter"><img src="/images/twitter.png" alt="Follow Stiletto on Twitter" /></a></li>
+            <li><a runat="server" href="#" target="_blank" title="Watch Stiletto on YouTube!"><img src="/images/youtube.png" alt="Watch Stiletto on YouTube!" /></a></li>
+          </ul> -->
+        </div>
+        </div>
+        
+    <div id="wrapper" class="container_16">
+            <div id="content" class="grid_10">
+                <!-- CONTENTS START -->
+                <asp:ContentPlaceHolder ID="PageContent" runat="server">
+                </asp:ContentPlaceHolder>
+                <!-- CONTENTS END -->
+            </div>
+             <div id="leftWrap" class="grid_6">
+               
+                <div class="leftNavtop">
+                    <asp:Literal ID="homebox1" runat="server" Text='<%$ Tokens:Topic,homebox1 %>' />
+                </div>
+                 <div class="leftNav">
+                    <asp:Literal ID="homebox2" runat="server" Text='<%$ Tokens:Topic,homebox2 %>' />
+                </div>
+                <div class="leftNav" id="divNewsletter">
+		    <asp:Literal ID="homeboxnewsletter" runat="server" Text='<%$ Tokens:Topic,homenewsletterbox %>' />
+                    <mavidea:ConstantContact id="ctrlCC" runat="server" />
+                </div>
+                  <div class="leftNav">
+                    <asp:Literal ID="homebox3" runat="server" Text='<%$ Tokens:Topic,homebox3 %>' />
+                </div>
+                  <div class="leftNav">
+                    <asp:Literal ID="homebox4" runat="server" Text='<%$ Tokens:Topic,homebox4 %>' />
+                </div>
+                <div class="leftNav">
+                    <asp:Literal ID="homebox5" runat="server" Text='<%$ Tokens:Topic,homebox5 %>' />
+                </div>
+                <div>
+                    <aspdnsf:PollControl ID="ctrlPoll" runat="server" PollButtonText="Vote" HeaderBGColor='<%$ Tokens:AppConfig2, SiteDisplay.HeaderBGColor %>'
+                        PollClass='<%$ Tokens:AppConfig2, SiteDisplay.BoxFrameStyle %>' OnPollVoteButtonClick="ctrlPoll_PollVoteButtonClick" />
+                </div>
+            </div>
+                   <br clear="all" />
+        </div>
+
+    <!-- wrapper -->
+    <div id="footer">
+               
+                    <asp:Literal ID="footerMenu" runat="server" Text='<%$ Tokens:Topic,FooterMenu %>' />
+        </div>
+                <div id="copyright">
+              <p>
+                   <span id="updateCopyright" class="">
+	                    <script type="text/javascript">
+	                        var now = new Date();
+	                        var year = now.getFullYear();
+	                        document.write("&copy; " + year + " Stiletto Tools. All Rights Reserved! Toll Free: 1-800-987-1849");
+                        </script> 
+                  </span>
+             </p>
+                    <p><a href="http://www.mavidea.com/web-design-marketing/" target="_blank">Web Design</a> By: Mavidea Technology Group, LLC</p>
+                </div>
+    </form>
+    <asp:Literal ID="litBuySafeSeal" runat="server" Text='<%$ Tokens:BuySafeSeal %>' />
+    <asp:Literal ID="litBongoExtend" runat="server" Text='<%$ Tokens:BongoExtend %>' />
+    
+</body>
+</html>

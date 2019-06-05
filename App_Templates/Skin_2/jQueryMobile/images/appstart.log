@@ -1,0 +1,92 @@
+﻿12/20/2015 10:12:55 AM: Starting AspDotNetStorefront...
+
+12/20/2015 10:12:55 AM: AppLogic.ApplicationStart...
+
+12/20/2015 10:12:55 AM: Testing DBConn...
+
+12/20/2015 10:12:55 AM: DBConn OK.
+
+12/20/2015 10:12:55 AM: Determine Trust Level...
+
+12/20/2015 10:12:55 AM: Determine Trust Level OK.
+
+12/20/2015 10:12:55 AM: Application.Clear...
+
+12/20/2015 10:12:55 AM: Application.Clear OK.
+
+12/20/2015 10:12:55 AM: Application.RemoveAll...
+
+12/20/2015 10:12:55 AM: Application.RemoveAll OK.
+
+12/20/2015 10:12:55 AM: License Check...
+
+12/20/2015 10:12:57 AM: License Check Completed.
+
+12/20/2015 10:12:57 AM: ExcelToXml.SetLicense...
+
+12/20/2015 10:12:57 AM: ExcelToXml.SetLicense OK.
+
+12/20/2015 10:12:57 AM: ComponentArt License...
+
+12/20/2015 10:12:57 AM: ComponentArt License OK.
+
+12/20/2015 10:12:57 AM: GlobalConfig Load...
+
+12/20/2015 10:12:57 AM: GlobalConfig Load OK.
+
+12/20/2015 10:12:57 AM: AppConfig Load...
+
+12/20/2015 10:12:58 AM: AppConfig Load OK.
+
+12/20/2015 10:12:58 AM: EventHandler Load...
+
+12/20/2015 10:12:58 AM: EventHandler Load OK.
+
+12/20/2015 10:12:58 AM: BadWord Load...
+
+12/20/2015 10:12:58 AM: BadWord Load OK.
+
+12/20/2015 10:12:58 AM: Load StringResources...
+
+12/20/2015 10:12:58 AM: Load StringResources OK.
+
+12/20/2015 10:12:58 AM: Load EntityHelpers...
+
+12/20/2015 10:12:59 AM: Load EntityHelpers OK.
+
+12/20/2015 10:12:59 AM: Load Tax Tables...
+
+12/20/2015 10:12:59 AM: Load Tax Tables OK.
+
+12/20/2015 10:12:59 AM: Setup 49...
+
+12/20/2015 10:12:59 AM: Setup 49 OK.
+
+12/20/2015 10:12:59 AM: CustomerSession.StaticClear...
+
+12/20/2015 10:12:59 AM: CustomerSession.StaticClear OK.
+
+12/20/2015 10:12:59 AM: Load CustomerLevels...
+
+12/20/2015 10:12:59 AM: Load CustomerLevels OK.
+
+12/20/2015 10:12:59 AM: CC Check...
+
+12/20/2015 10:12:59 AM: CC Check OK.
+
+12/20/2015 10:12:59 AM: NextKeyChangeCheck...
+
+12/20/2015 10:12:59 AM: NextKeyChangeCheck OK.
+
+12/20/2015 10:12:59 AM: Legacy ConvertAllPasswords...
+
+12/20/2015 10:13:00 AM: Legacy ConvertAllPasswords OK.
+
+12/20/2015 10:13:00 AM: Legacy UpgradeEncryption...
+
+12/20/2015 10:13:00 AM: Legacy UpgradeEncryption OK.
+
+12/20/2015 10:13:01 AM: AppLogic.ApplicationStart OK.
+
+12/20/2015 10:13:01 AM: AspDotNetStorefront Started OK.
+

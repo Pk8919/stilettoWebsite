@@ -1,0 +1,92 @@
+﻿1/15/2019 7:00:14 PM: Starting AspDotNetStorefront...
+
+1/15/2019 7:00:14 PM: AppLogic.ApplicationStart...
+
+1/15/2019 7:00:14 PM: Testing DBConn...
+
+1/15/2019 7:00:14 PM: DBConn OK.
+
+1/15/2019 7:00:14 PM: Determine Trust Level...
+
+1/15/2019 7:00:14 PM: Determine Trust Level OK.
+
+1/15/2019 7:00:14 PM: Application.Clear...
+
+1/15/2019 7:00:14 PM: Application.Clear OK.
+
+1/15/2019 7:00:14 PM: Application.RemoveAll...
+
+1/15/2019 7:00:14 PM: Application.RemoveAll OK.
+
+1/15/2019 7:00:14 PM: License Check...
+
+1/15/2019 7:00:15 PM: License Check Completed.
+
+1/15/2019 7:00:15 PM: ExcelToXml.SetLicense...
+
+1/15/2019 7:00:15 PM: ExcelToXml.SetLicense OK.
+
+1/15/2019 7:00:15 PM: ComponentArt License...
+
+1/15/2019 7:00:15 PM: ComponentArt License OK.
+
+1/15/2019 7:00:15 PM: GlobalConfig Load...
+
+1/15/2019 7:00:15 PM: GlobalConfig Load OK.
+
+1/15/2019 7:00:15 PM: AppConfig Load...
+
+1/15/2019 7:00:15 PM: AppConfig Load OK.
+
+1/15/2019 7:00:15 PM: EventHandler Load...
+
+1/15/2019 7:00:15 PM: EventHandler Load OK.
+
+1/15/2019 7:00:15 PM: BadWord Load...
+
+1/15/2019 7:00:15 PM: BadWord Load OK.
+
+1/15/2019 7:00:15 PM: Load StringResources...
+
+1/15/2019 7:00:15 PM: Load StringResources OK.
+
+1/15/2019 7:00:15 PM: Load EntityHelpers...
+
+1/15/2019 7:00:15 PM: Load EntityHelpers OK.
+
+1/15/2019 7:00:15 PM: Load Tax Tables...
+
+1/15/2019 7:00:15 PM: Load Tax Tables OK.
+
+1/15/2019 7:00:15 PM: Setup 49...
+
+1/15/2019 7:00:15 PM: Setup 49 OK.
+
+1/15/2019 7:00:15 PM: CustomerSession.StaticClear...
+
+1/15/2019 7:00:15 PM: CustomerSession.StaticClear OK.
+
+1/15/2019 7:00:15 PM: Load CustomerLevels...
+
+1/15/2019 7:00:15 PM: Load CustomerLevels OK.
+
+1/15/2019 7:00:15 PM: CC Check...
+
+1/15/2019 7:00:15 PM: CC Check OK.
+
+1/15/2019 7:00:15 PM: NextKeyChangeCheck...
+
+1/15/2019 7:00:15 PM: NextKeyChangeCheck OK.
+
+1/15/2019 7:00:15 PM: Legacy ConvertAllPasswords...
+
+1/15/2019 7:00:15 PM: Legacy ConvertAllPasswords OK.
+
+1/15/2019 7:00:15 PM: Legacy UpgradeEncryption...
+
+1/15/2019 7:00:15 PM: Legacy UpgradeEncryption OK.
+
+1/15/2019 7:00:15 PM: AppLogic.ApplicationStart OK.
+
+1/15/2019 7:00:15 PM: AspDotNetStorefront Started OK.
+

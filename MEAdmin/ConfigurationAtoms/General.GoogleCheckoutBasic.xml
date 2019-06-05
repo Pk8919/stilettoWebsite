@@ -1,0 +1,69 @@
+<ConfigurationAtom>
+  <HtmlHeader>
+    <![CDATA[
+      <table width="780" cellpadding="4" cellspacing="0" class="modalTable">
+      <tbody>
+      <tr>
+
+      <td width="225">
+        <img src="images/Google Checkout.gif" border="0"/>
+      </td>
+        <td width="200" class="globalAdmin" align="right">
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=signup" target="_blank">Sign Up</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=info" target="_blank">More info about Google Checkout</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=manual" target="_blank">Configuration Help</a>
+      </td>
+
+      </tr>
+      </tbody>
+      </table>
+    ]]>
+    
+  </HtmlHeader>
+  <Title>Configure Google Checkout</Title>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Enable Google Checkout">
+    <Name>GoogleCheckout.ShowOnCartPage</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Allow Anonymous Checkout">
+    <Name>GoogleCheckout.AllowAnonCheckout</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Send Store Receipt">
+    <Name>GoogleCheckout.SendStoreReceipt</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Tax Shipping">
+    <Name>GoogleCheckout.ShippingIsTaxed</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Tax Rate">
+    <Name>GoogleCheckout.DefaultTaxRate</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Use Tax Tables">
+    <Name>GoogleCheckout.UseTaxTables</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Merchant Key">
+    <Name>GoogleCheckout.MerchantKey</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Merchant ID">
+    <Name>GoogleCheckout.MerchantId</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Use Sandbox">
+    <Name>GoogleCheckout.UseSandbox</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Sandbox Merchant Key">
+    <Name>GoogleCheckout.SandboxMerchantKey</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Sandbox Merchant ID">
+    <Name>GoogleCheckout.SandboxMerchantId</Name>
+  </AppConfig>
+
+</ConfigurationAtom>

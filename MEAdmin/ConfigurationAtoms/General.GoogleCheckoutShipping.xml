@@ -1,0 +1,33 @@
+<ConfigurationAtom>
+  <HtmlHeader>
+    <![CDATA[
+      <table width="780" cellpadding="4" cellspacing="0" class="modalTable">
+      <tbody>
+      <tr>
+      
+
+      <td width="225">
+        <img src="images/Google Checkout.gif" border="0"/>
+      </td>
+        <td width="200" class="globalAdmin" align="right">
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=signup" target="_blank">Sign Up</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=info" target="_blank">More info about Google Checkout</a><br />
+        <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=googlecheckout&type=manual" target="_blank">Configuration Help</a>
+      </td>
+
+      </tr>
+      </tbody>
+      </table>
+    ]]>
+  </HtmlHeader>
+  <Title>Configure Google Checkout Shipping</Title>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Shipping Markup"><Name>GoogleCheckout.DefaultShippingMarkup</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Domestic City"><Name>GoogleCheckout.DefaultDomesticShipToCity</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Domestic State"><Name>GoogleCheckout.DefaultDomesticShipToState</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Domestic Zip"><Name>GoogleCheckout.DefaultDomesticShipToZip</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default Domestic Country"><Name>GoogleCheckout.DefaultDomesticShipToCountry</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default International City"><Name>GoogleCheckout.DefaultInternationalShipToCity</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default International State"><Name>GoogleCheckout.DefaultInternationalShipToState</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default International Zip"><Name>GoogleCheckout.DefaultInternationalShipToZip</Name></AppConfig>
+  <AppConfig Required="false" Advanced="false" FriendlyName="Default International Country"><Name>GoogleCheckout.DefaultInternationalShipToCountry</Name></AppConfig>
+</ConfigurationAtom>

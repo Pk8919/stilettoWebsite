@@ -1,0 +1,316 @@
+﻿/********************************************************/
+/*  Filename:   TabStyles.css
+    
+    Author:     AspDotNetStorefront.com
+    
+    Theme:      Admin_Default
+    
+    Synopsis:   Contains styles for tab controls
+                used on the admin site
+                                                        */
+/********************************************************/
+
+.SelectedTab
+{
+    background-color: #FFCC00;
+    color: #404040;
+    font-weight: bold;
+    border-top: solid 1px #404040;
+    border-right: solid 1px #404040;
+    border-left: solid 1px #404040;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 13px;
+}
+
+.DefaultTab
+{
+    background-color: #f2f2f2;
+    color: #000080;
+    border-top: solid 1px #404040;
+    border-right: solid 1px #404040;
+    border-left: solid 1px #404040;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+    cursor: hand;
+}
+
+.SelectedTab2
+{
+    background-image: url(images/tabSelect.gif);
+    color: #000000;
+    margin: 0;
+    padding: 0px;
+    width: 91px;
+    height: 23px;
+    font-weight: normal;
+    font-size: 13px;
+    cursor: hand;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.DefaultTab2
+{
+    background-image: url(images/tab2.gif);
+    color: #000000;
+    width: 91px;
+    height: 23px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0px;
+    font-size: 13px;
+    cursor: hand;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tabHover
+{
+    background-image: url(images/tabHover.gif);
+    color: #696969;
+    margin: 0;
+    padding: 0px;
+    width: 91px;
+    height: 23px;
+    font-weight: normal;
+    font-size: 13px;
+    cursor: hand;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tabBox
+{
+    margin-top: -1px;
+    padding-bottom: 0px;
+    width: 910px;
+    border-right: #b7ccfb 1px solid;
+    border-left: #b7ccfb 1px solid;
+    border-bottom: #b7ccfb 1px solid;
+    background-color: #F9F9F9;
+    color: #696969;
+}
+
+.tabBox2
+{
+    margin-top: -1px;
+    padding-bottom: 0px;
+    width: 450px;
+    border-right: #b7ccfb 1px solid;
+    border-left: #b7ccfb 1px solid;
+    border-bottom: #b7ccfb 1px solid;
+    background-color: #F9F9F9;
+    color: #696969;
+}
+
+.tabShaddow
+{
+    background-image: url(images/shadowtab.jpg);
+    height: 5px;
+    width: 100%;
+}
+
+.tabWrapper
+{
+}
+
+.tabs
+{
+    position: inherit;
+    height: 18px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-image: url("./images/bar_off.gif");
+    background-repeat: repeat-x;
+    overflow: hidden;
+}
+
+.tabs li
+{
+    display: inline;
+}
+
+.tabs a:hover, .tabs a.tab-active
+{
+    height: 18px;
+    color: Red;
+    background: #ffffff url("./images/bar_on.gif") repeat-x;
+}
+
+.tabs a
+{
+    height: 18px;
+    font: 10px verdana, helvetica, sans-serif;
+    font-weight: normal;
+    position: inherit;
+    padding: 6px 10px 10px 10px;
+    margin: 0px -4px 0px 0px;
+    color: #2B4353;
+    text-decoration: none;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #6D99B6;
+}
+
+.tab-container
+{
+    background: #ffffff;
+    border: 1px solid #6D99B6;
+    overflow: visible;
+    height: 100%;
+}
+
+.tab-container2
+{
+    background: #ffffff;
+    border: 1px solid #6D99B6;
+    overflow: visible;
+    height: 100%;
+}
+
+.tab-panes
+{
+    margin: 3px;
+}
+
+
+/********************************************************/
+/* AJAX CONTROL TOOLKIT TAB STYLES                      */
+/********************************************************/
+
+.aspdnsf_Tab .ajax__tab_header
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 11px;
+}
+
+/* Default Tab Look */
+.aspdnsf_Tab .ajax__tab_outer
+{
+    color: #000000;
+    font-weight: normal;
+    margin: 0;
+    padding: 0px;
+    font-size: 13px;
+    cursor: hand;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    width: 91px;
+    background-image: url(images/tab2.gif);
+    height: 23px;
+}
+
+.aspdnsf_Tab .ajax__tab_inner
+{
+    height: 23px;
+    text-align: center;
+}
+
+.aspdnsf_Tab .ajax__tab_tab
+{
+    height: 23px;
+    line-height: 20px;
+    text-align: center;
+}
+
+/* On Tab Mouseover */
+.aspdnsf_Tab .ajax__tab_hover .ajax__tab_outer
+{
+    background-image: url(images/tabHover.gif);
+    color: #696969;
+    margin: 0;
+    padding: 0px;
+    width: 91px;
+    height: 23px;
+    font-weight: normal;
+    font-size: 13px;
+    cursor: hand;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.aspdnsf_Tab .ajax__tab_hover .ajax__tab_inner
+{
+    height: 23px;
+}
+
+.aspdnsf_Tab .ajax__tab_hover .ajax__tab_tab
+{
+    height: 23px;
+}
+
+/* Active Tab */
+.aspdnsf_Tab .ajax__tab_active .ajax__tab_outer
+{
+    background-image: url(images/tabSelect.gif);
+    color: #000000;
+    margin: 0;
+    padding: 0px;
+    width: 91px;
+    height: 23px;
+    font-weight: normal;
+    font-size: 13px;
+    cursor: hand;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.aspdnsf_Tab .ajax__tab_active .ajax__tab_inner
+{
+    height: 23px;
+}
+
+.aspdnsf_Tab .ajax__tab_active .ajax__tab_tab
+{
+    height: 23px;
+}
+
+/* Tab Content */
+
+.aspdnsf_Tab .ajax__tab_body .ajax__tab_panel[ID='tabContainer_pnlBasic']
+{
+    margin-top: -1px;
+    padding-bottom: 0px;
+    border-right: #b7ccfb 1px solid;
+    border-left: #b7ccfb 1px solid;
+    border-bottom: #b7ccfb 1px solid;
+    background-color: #F9F9F9;
+    color: #696969;
+    width: 450px;
+}
+
+.aspdnsf_Tab .ajax__tab_body .ajax__tab_panel[ID='tabContainer_pnlEmailSimple'], .aspdnsf_Tab .ajax__tab_body .ajax__tab_panel[ID='tabContainer_pnlEmailAdvanced']
+{
+    margin-top: -1px;
+    padding-bottom: 0px;
+    border-right: #b7ccfb 1px solid;
+    border-left: #b7ccfb 1px solid;
+    border-bottom: #b7ccfb 1px solid;
+    background-color: #F9F9F9;
+    color: #696969;
+    width: 700px;
+}
+
+
+.aspdnsf_Tab .ajax__tab_body .ajax__tab_panel
+{
+    margin-top: -1px;
+    padding-bottom: 0px;
+    border-right: #b7ccfb 1px solid;
+    border-left: #b7ccfb 1px solid;
+    border-bottom: #b7ccfb 1px solid;
+    background-color: #F9F9F9;
+    color: #696969;
+    width: 1000px;
+}

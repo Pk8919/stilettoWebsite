@@ -1,0 +1,47 @@
+<ConfigurationAtom>
+  <HtmlHeader>
+    <![CDATA[      
+      <div class="modalTable">
+        <table width="100%" cellpadding="4" cellspacing="0">
+          <tr>
+            <td>
+              <img src="images/PayPal_OnBoarding_ECPaymentIcon.gif" border="0"/>
+            </td>
+            <td class="globalAdmin" align="right">
+              <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=paypalstandard&type=signup" target="_blank">Sign Up for PayPal Payments Standard</a><br />
+              <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=paypalstandard&type=info" target="_blank">More info about PayPal Payments Standard</a><br />
+              <a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=paypalstandard&type=manual" target="_blank">Configuration Help</a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <b style="display:block;text-align:center;padding-bottom:10px;">Note that many PayPal credentials are shared across PayPal services.</b>
+    ]]>
+  </HtmlHeader>
+  <Title>Configure PayPal Payments Standard</Title>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="PayPal Account Email Address">
+    <Name>PayPal.BusinessID</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="PayPal Default Locale Code">
+    <Name>PayPal.DefaultLocaleCode</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Force Capture">
+    <Name>PayPal.ForceCapture</Name>
+  </AppConfig>
+  
+  <AppConfig Required="false" Advanced="false" FriendlyName="Require Confirmed Address">
+    <Name>PayPal.RequireConfirmedAddress</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="Use Instant Notification">
+    <Name>PayPal.UseInstantNotification</Name>
+  </AppConfig>
+
+  <AppConfig Required="false" Advanced="false" FriendlyName="API Email Address (usually blank)">
+    <Name>PayPal.API.MerchantEMailAddress</Name>
+  </AppConfig>
+  
+</ConfigurationAtom>
